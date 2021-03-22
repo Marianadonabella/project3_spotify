@@ -10,7 +10,7 @@ During this week of the bootcamp we've learnt webscrapping, how to work with API
 The project consists on building a song recommender, based on a song inputed by the user.
 On my project, I decided to make a special song recommender: it only recommends songs by female singers.
 I took this approach because the music industry is ruled by men, and it makes it difficult for women to succeed, and for consumers to find good music perfomed by female that matches their taste. 
-More information about it can be found on the presentation material.
+More information about it can be found on the presentation material, and here in this Medium article: https://marianadonabella.medium.com/what-you-consume-is-a-personal-statement-4200b6d41df6
 
 ## How it works
 
@@ -41,5 +41,5 @@ It could also be interesting to test more parameters and cluster sizes, as well 
 ## Content
 
 In this repository you'll find:
-- Folder "code": notebooks with the coding process. The one with the final and ready to go model is the one called "main"
+- Folder "code": notebook with the coding process
 - Folder "extra materials": presentation document and video with demonstration of the recommender
